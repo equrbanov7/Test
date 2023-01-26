@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(93,72, 72);
+    color: #fff;
+    padding: 5px 0;
+}
+
+.header-title{
+    text-align: center;
+}
+.card-section .card-title{
+    text-align: center;
+}
+
+.card-image{
+    width: 50%;
+}
